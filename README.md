@@ -41,18 +41,18 @@
 
 ## 🔹 Academic Projects
 
-### 🏥 Hospital Management System
+## Hospital Management System
 - Developed using **Java & JDBC**
 - Features: Patient records, Doctor details, Billing
 - Database-driven application with CRUD operations
 
-### 💰 Price Discrimination & Quality Checking System
+## Price Discrimination & Quality Checking System
 - Core Java-based project
 - Focused on pricing logic and validation rules
 
 ---
 
-## 🔹 Currently Learning
+## Currently Learning
 - Advanced Java
 - SQL for Data Analytics
 - Power BI
@@ -60,6 +60,6 @@
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 - GitHub: https://github.com/mahimakumar538-eng
 
