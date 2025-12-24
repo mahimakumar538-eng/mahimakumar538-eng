@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Mahima Kumar
 
-<!--
-**mahimakumar538-eng/mahimakumar538-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Computer Science Graduate  
+ Java Developer | SQL | JDBC | Data Structures  
+ Aspiring Data Analyst  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+- I am a passionate **Java Developer** with strong fundamentals in **Core Java**
+- Hands-on experience with **Collections, OOPs, JDBC**
+- Good knowledge of **SQL, MySQL, MS SQL**
+- Interested in **Backend Development & Data Analysis**
+- Actively preparing for **Software Developer / Data Analyst roles**
+
+---
+
+##  Technical Skills
+- Java
+- Java Script
+- Html
+- Css
+
+**Database** 
+- MS SQL
+- MY SQL
+
+**Concepts**
+- OOPs  
+- Data Structures & Algorithms  
+- JDBC  
+- Exception Handling  
+- Collections Framework  
+
+**Tools**
+- Git & GitHub  
+- VS Code  
+- Eclipse  
+
+---
+
+## 🔹 Academic Projects
+
+### 🏥 Hospital Management System
+- Developed using **Java & JDBC**
+- Features: Patient records, Doctor details, Billing
+- Database-driven application with CRUD operations
+
+### 💰 Price Discrimination & Quality Checking System
+- Core Java-based project
+- Focused on pricing logic and validation rules
+
+---
+
+## 🔹 Currently Learning
+- Advanced Java
+- SQL for Data Analytics
+- Power BI
+- Problem Solving (DSA)
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/mahimakumar538-eng
+
