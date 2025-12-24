@@ -39,7 +39,7 @@
 
 ---
 
-## 🔹 Academic Projects
+##  Academic Projects
 
 ## Hospital Management System
 - Developed using **Java & JDBC**
